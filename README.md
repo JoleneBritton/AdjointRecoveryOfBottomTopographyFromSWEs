@@ -29,3 +29,4 @@ The code base corresponding the the paper 'Recovery of a Time-Dependent Bottom T
     - the function to calculate errors for the accuracy test.
 - **SWE_Results:** generates all the final plots at the end of all the iterations, the plots used in the paper.
 - **lgwt.m & lglnodes.m:** used for nodes and weights in numerical integrals.
+    - *These files are not my own. The author credit is provided in each file.*
